@@ -1,6 +1,8 @@
 # PROJECT NO. 6
 
-This is my Sixth project of Web Development. In this project I have learnt a lot of new concepts of CSS like flexbox, display property, flex direction, float property, hovering effects etc. 
+This is my **6th project** of Web Development. In this project I have learnt a lot of new concepts of CSS like **flexbox, display property, flex direction, how to center items, float property, hovering effects** etc. 
+
+> [Do chekout my project here](https://project-6-by-noman.netlify.app/)
 
 FULL WEBPAGE:
 ![Project2](sc/full.png "proj2 image")
